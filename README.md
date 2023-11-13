@@ -52,8 +52,12 @@ const Leander = {
     <img alt="Button" title="Liniked in" src="https://custom-icon-badges.demolab.com/badge/-My%20LinkedIn-blue?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
 </div>
+<div  style="display: flex; flex-direction: row">>
+  
 ![Leander's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandervanAarde&show_icons=true&theme=shadow_green)
-   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandervanAarde&hide=php&theme=shadow_green) 
+  
+</div>
 
 
 <h3> Top Repos </h3>
