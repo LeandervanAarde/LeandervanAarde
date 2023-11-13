@@ -43,16 +43,18 @@ const Leander = {
 <img align="left" alt="swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
 <br/>
 <br/>
-<br/>
 
-<br/>
-<br/>
+
 <div style="display: flex; justify-content: space-between; justify-content: center; align-items:center; gap: 10px">
   <a href="https://www.linkedin.com/in/leander-van-aarde-7771b3246/">
     <img alt="Button" title="Liniked in" src="https://custom-icon-badges.demolab.com/badge/-My%20LinkedIn-blue?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
 </div>
-<div  style="display: flex; flex-direction: row">>
+
+<br/>
+<br/>
+
+<div  style="display: flex; flex-direction: row">
   
 ![Leander's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandervanAarde&show_icons=true&theme=shadow_green)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandervanAarde&hide=php&theme=shadow_green) 
