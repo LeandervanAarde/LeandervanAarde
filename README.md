@@ -53,7 +53,7 @@ const Leander = {
   </a>
 </div>
 
-![Leander's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandervanAarde&show_icons=true&theme=dark)
+![Leander's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandervanAarde&show_icons=true&theme=shadow_green)
 
 <h3> Top Repos </h3>
 <hr style="height: 
