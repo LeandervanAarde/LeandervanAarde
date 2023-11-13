@@ -66,41 +66,6 @@ const Leander = {
 <hr style="height: 
 1.5px; background-color: #3AFF00;" />
 
-<div style="display: flex; justify-center: flex-start;">
-    <div style="margin-right: .25rem; margin-bottom: .5rem">
-        <h2>Open Overflow</h2>
-                <img src="https://drive.google.com/uc?export=view&id=1xBr2NxxFOauw1FDt6jiUYLSzXYuUIRNr" alt="Logo" style="max-width: 100%;    
-              height: 80px; margin-bottom: 20px; border-radius: 5px;">
-      </br>
-      </br>
-              Open Overflow is a community-driven Q&A platform for developers, similar to the more popular Stack Overflow. It was built by a team of five students using the MERN stack, and it offers a variety of features that make it a             valuable resource for developers of all levels.
-
-One of the key features of Open Overflow is its focus on collaboration. Users can create and answer questions, vote on the quality of questions and answers, and report abuse. Users can also earn badges for contributing to the community. This collaborative approach helps to create a high-quality platform where developers can learn from and support each other.
-
-Another key feature of Open Overflow is its focus on learning. Users can choose to follow tags of interest, which allows them to see relevant questions and answers in their feed. Users can also search for specific topics, which can help them to find the information they need quickly and easily.
-
-Open Overflow is a valuable resource for developers of all levels. It is a place where developers can learn from each other, ask and answer questions, and contribute to the community.
-
-### Here are some specific examples of how Open Overflow can be used by developers:
-
-* A junior developer can use Open Overflow to ask questions about a specific programming language or framework.
-* A senior developer can use Open Overflow to share their knowledge and expertise with other developers.
-* A team of developers can use Open Overflow to collaborate on a project and ask questions about specific challenges they are facing.
-* A company can use Open Overflow to build a community around their product or service and to provide support to their users.
-
-Open Overflow is a new and growing platform, but it has the potential to become a valuable resource for the entire developer community.
-        <div style="display: flex; justify-content: space-between">
-        <a href="https://github.com/LeandervanAarde26/openwindowoverflow/tree/main/client">
-          <img alt="Front end" title="Open Overflow"              
-              src="https://custom-icon-badges.demolab.com/badge/View%20front%20end-red.svg?style=for-the-badge&logo=code&logoSource=feather"/>
-        </a>
-        <a href="https://github.com/LeandervanAarde26/openwindowoverflow/tree/main/server">
-          <img alt="Front end" title="Open Overflow"              
-                src="https://custom-icon-badges.demolab.com/badge/View%20back%20end-blue.svg?style=for-the-badge&logo=code&logoSource=feather"/>
-        </a>
-     </div>
-  </div>
-
 <div style="margin-right: .25rem; margin-bottom: .5rem">
         <h2>Fin Finder</h2>
             <img src="https://drive.google.com/uc?export=view&id=1Phfxt9EimjoTJtZxN_6EihLqOA8emI3T" alt="Logo" style="max-width: 100%;    
@@ -211,40 +176,42 @@ UniVerse is a powerful and flexible tool that can help schools of all sizes stre
 
 
   <div style="margin-right: .25rem; margin-bottom: .5rem">
-        <h2>NHL</h2>
-            <img src="https://raw.githubusercontent.com/LeandervanAarde26/nhl/main/public/Assets/Logo.svg" alt="Logo" style="max-width: 100%;    
-              height: 80px; margin-bottom: 20px; border-radius: 5px;">
-</br>
-</br>
-## CHEL: A Web-Based NHL Statistics Tracker
+        <h2>Diasync</h2>
+                    <img src="https://drive.google.com/uc?export=view&id=1li8QOPWr_fjSb-7JsWC3EIQ4r8Hj5AdW" alt="Logo" style="max-width: 100%;    
+              height: 70px; margin-bottom: 20px; border-radius: 5px;">
+    </br>
+    </br>
+    
+Diasync is an AI-driven, Diabetes web application carefully executed with Python, NEXT, OpenAI and Postgres in order to give Diabetics the best self-managing platform. This specialised application has been crafted to utilise the hype of AI and integrate it into helping Diabetics better understand their Diabetes in an efficient way. While not an official health application, it does assist users in getting a better grasp on their disease.
 
-CHEL is a web-based application that tracks the statistics of NHL players and teams. Users can view the top teams in the league, compare player and team statistics, and track player performance over their careers. Live scores are updated daily to show the latest scores from the past 24 hours.
+Diasync assiste Diabetics through: 
 
-**Features:**
+* Bloodsugar upload: Users can upload their Glucose readings that have been downloaded from their Contour bloodsugar reader in order to keep track of their glucose over time and get a visualised dataset using Chartsjs.
+* Complications: In order to fully understand Diabetes, users' data gets analysed by the OpenAI GPT-4 model and will showcase what potential health risks are with your blood sugar trends. 
+* Diary: View all your blood sugars and whether they are considered high, low or stable on the Diary page.
+* Dietary adjustments and articles: Based on users' blood sugar, the GPT-4 Model can suggest dietary changes to improve trends and to help manage blood sugar. Articles about improvement are also availabel.
+* Personalised chat: Utilising GPT-4 and Langchain, users can have a context-aware conversation on the platform to get more information about their Diabetes.
 
-* Up-to-date NHL statistics: CHEL uses the NHL-API to get the most relevant and up-to-date NHL data.
-* Player and team comparisons: Users can compare player and team data using chartsjs to get a visual idea of how players and teams stack up.
-* Live scores: CHEL shows the latest and most up-to-date scores from the past 24 hours.
+Diasync is a powerful and flexible platform that can help any Diabetic better understand their diabetes and reduce the load of searching for information. While still in it's early stages, Diasync holds a lot of growth potential for the future. 
 
 **Benefits:**
 
-* CHEL is a one-stop shop for NHL fans who want to stay up-to-date on the latest statistics and scores.
-* CHEL's player and team comparisons make it easy to see how players and teams compare to each other.
-* CHEL's live scores ensure that users never miss a beat.
-
-**Example:**
-
-A hockey fan can use CHEL to compare the statistics of Auston Matthews and Conor McDavid, two of the best players in the NHL. They can also compare the statistics of the Toronto Maple Leafs and the Edmonton Oilers, two of the best teams in the NHL. Additionally, they can use CHEL to track the performance of their favorite players over the course of their careers.
-
-CHEL is a valuable tool for NHL fans of all levels. It is a great way to stay up-to-date on the latest statistics and scores, compare player and team performance, and track the performance of your favorite players.
-        <div style="display: flex; justify-content: space-between">
-        <a href="https://github.com/LeandervanAarde26/nhl">
-          <img alt="Front end" title="NHL"              
+* Specialised: Diasync is a specialised software that any Diabetic will be able to use and help them understand their own Diabetes.
+* Pleasing: Data visualisation makes the application pleasing and ultimately easier to understand. 
+* Ai-Driven: AI is changing the world and how we perceive Computer interactions, Diasync utilises this in order to give users a powerful and specialised application.
+  </br>
+    </br>
+  <div style="display: flex; justify-content: space-between">
+        <a href="https://github.com/LeandervanAarde/diasyncServer">
+          <img alt="Front end" title="Diasync front end"              
               src="https://custom-icon-badges.demolab.com/badge/View%20front%20end-red.svg?style=for-the-badge&logo=code&logoSource=feather"/>
+        </a>
+        <a href="https://github.com/LeandervanAarde/diasync">
+          <img alt="Front end" title="Duasync"              
+                src="https://custom-icon-badges.demolab.com/badge/View%20back%20end-blue.svg?style=for-the-badge&logo=code&logoSource=feather"/>
         </a>
      </div>
   </div>
-</div>
 
 
 
