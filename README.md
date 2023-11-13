@@ -98,7 +98,7 @@ FinFinder is the perfect tool for fish keepers who want to keep their tanks heal
                 src="https://custom-icon-badges.demolab.com/badge/View%20back%20end-blue.svg?style=for-the-badge&logo=code&logoSource=feather"/>
         </a>
      </div>
-        ###Click below to see the deployment!
+        ### Click below to see the deployment!
   <a href="https://fin-finder.vercel.app" title="Link Title"><img src="https://drive.google.com/uc?export=view&id=1lyMf25A0JUfz1bXr0eG67Vk9Vwk8n2Lh" alt="FinFinder" /></a>
   </div>
 
@@ -214,6 +214,6 @@ Diasync is a powerful and flexible platform that can help any Diabetic better un
         </a>
      </div>
 
-  ###Click below to see the deployment!
+  ### Click below to see the deployment!
     <a href="https://diasync.vercel.app" title="Link Title"><img src="https://drive.google.com/uc?export=view&id=1lANb1np5dTWBdw7lkuway5Er50Om4RT8"    alt="Diasync" /></a>
   </div>
