@@ -44,7 +44,7 @@ const Leander = {
 <br/>
 <br/>
 <br/>
-![Leander's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandervanAarde&theme=shaodw_red&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandervanAarde&theme=dark&show_icons=true)
 <br/>
 <br/>
 <div style="display: flex; justify-content: space-between">
