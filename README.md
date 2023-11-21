@@ -204,7 +204,7 @@ Diasync is a powerful and flexible platform that can help any Diabetic better un
   </br>
     </br>
   <div style="display: flex; justify-content: space-between">
-        <a href="https://github.com/LeandervanAarde/diasybc">
+        <a href="https://github.com/LeandervanAarde/diasync">
           <img alt="Front end" title="Diasync front end"              
               src="https://custom-icon-badges.demolab.com/badge/View%20front%20end-red.svg?style=for-the-badge&logo=code&logoSource=feather"/>
         </a>
